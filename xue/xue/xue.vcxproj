@@ -18,10 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="demo_1.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{63D9F959-210E-4C7C-9660-A259C82D07DD}</ProjectGuid>
+    <ProjectGuid>{DF7B9763-DE0F-4DDE-90E3-D8FACDCF4B24}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>cstudy</RootNamespace>
+    <RootNamespace>xue</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

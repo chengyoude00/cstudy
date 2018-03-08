@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{63D9F959-210E-4C7C-9660-A259C82D07DD}</ProjectGuid>
+    <ProjectGuid>{060C79F6-542D-4D2F-A7EC-9B9FE57E56FE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>cstudy</RootNamespace>
+    <RootNamespace>cy</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -145,6 +145,8 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

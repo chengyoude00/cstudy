@@ -18,10 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ke.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{63D9F959-210E-4C7C-9660-A259C82D07DD}</ProjectGuid>
+    <ProjectGuid>{FDCE25E8-0040-44D5-B030-FDC711679DF7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>cstudy</RootNamespace>
+    <RootNamespace>stlxuexi</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

@@ -18,10 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ketang chongzai.cpp" />
+    <ClCompile Include="mychong.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mychong.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{63D9F959-210E-4C7C-9660-A259C82D07DD}</ProjectGuid>
+    <ProjectGuid>{B913545C-009C-448E-8495-5499A74B2C19}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>cstudy</RootNamespace>
+    <RootNamespace>案例</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
